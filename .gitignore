@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Build directories (common ones for React/Vue/Angular)
+dist/
+build/
+
+# Coverage reports
+coverage/
+
+# IDE specific files
+.vscode/
+
+# Operating System files
+.DS_Store    # macOS
+Thumbs.db    # Windows
+
+# Temporary files
+*.tmp
+*.temp
